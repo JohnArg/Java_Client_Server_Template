@@ -3,7 +3,7 @@
  * Request handling is left abstract for the developer to chose
  * whether to use multithreading or not and how what to do after the connection.
  */
-package mt_server.server_utils;
+package java_templates.mt_server.server_utils;
 
 import java.io.IOException;
 import java.net.ServerSocket;

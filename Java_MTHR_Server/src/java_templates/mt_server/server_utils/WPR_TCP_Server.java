@@ -2,7 +2,7 @@
  * Used to run a TCP server with a Worker Per Request model. The task
  * is simply to echo what the client sent back to them.
  */
-package mt_server.server_utils;
+package java_templates.mt_server.server_utils;
 
 import java.net.Socket;
 

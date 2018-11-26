@@ -1,4 +1,4 @@
-package john.learning.java.networking.utils;
+package java_templates.networking.client.utils;
 
 import java.io.BufferedReader;
 import java.io.IOException;

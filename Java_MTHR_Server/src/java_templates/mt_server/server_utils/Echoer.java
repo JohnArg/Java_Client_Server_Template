@@ -1,7 +1,7 @@
 /*
  * Echoes back the text that the client sent and closes the socket
  */
-package mt_server.server_utils;
+package java_templates.mt_server.server_utils;
 
 import java.io.BufferedReader;
 import java.io.IOException;
