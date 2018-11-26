@@ -1,6 +1,5 @@
-##Java Client Server Template
-
-###Multithreaded TCP Server
+## Java Client Server Template
+### Multithreaded TCP Server
 ___
 Java 1.8
 
