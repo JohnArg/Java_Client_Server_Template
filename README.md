@@ -5,4 +5,4 @@ Java 1.8
 
 Template code implementing the client-server model with TCP and multithreading. The server can either use Worker Per Request or a Thread Pool. Default functionality is to echo to the client what they sent. To be used for a quick setup.
 
-Use the *connection.properties* file inside the *resources* folder to change connection details. 
+Use the *connection.properties* file inside the *resources* folder to change connection details. The resources folder might need to be moved to the "bin" folder (or the one where the classes are built).
